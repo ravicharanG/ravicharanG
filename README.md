@@ -4,12 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
-- 🔭 I’m currently working on buidling projects.
+- 🔭 I’m currently working on reactjs.
 - 🌱 I’m currently learning web devlopment and dsa.
 - 👯 I’m looking to collaborate on Open Source and Project Ideas.
 - <!-- 🤝 I’m looking for help with **[Help Topics]**-->
 -  <!--💬 Ask me about **[Your Skills or Interests]** -->
-- 📫 How to reach me **[Your Email or Social Link]**
+-  📫 How to reach me :ravicharan0518@gmail.com.
 -  <!--⚡ Fun fact **[Interesting or fun fact about you]**-->
 
 ---
@@ -66,7 +66,7 @@
 ---
 
 ### 🎯 Goals:
-- 📚 Learn advanced system design & DevOps
+- 📚 Learn system design & devops.
 - 🚀 Build scalable full-stack web apps
 - 🌍 Contribute to meaningful open-source projects
 - 🧠 Practice DSA regularly for interview prep
